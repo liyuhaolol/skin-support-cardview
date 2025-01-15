@@ -19,7 +19,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SkinSupportCardview"
+rootProject.name = "SkinSupportCardView"
 include(":app")
 include(":androidx:skin-support-cardview")
 include(":androidx:skin-support-appcompat")
