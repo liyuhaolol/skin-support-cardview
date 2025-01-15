@@ -69,11 +69,11 @@ centralPortal {
         //packaging = "aar"
         name = "skin-support-cardview"
         description = "Android ChangeSkin"
-        url = "https://github.com/liyuhaolol/SkinSupportCardView"
+        url = "https://github.com/liyuhaolol/skin-support-cardview"
         licenses {
             license {
                 name = "The MIT License"
-                url = "https://github.com/liyuhaolol/SkinSupportCardView/blob/master/LICENSE"
+                url = "https://github.com/liyuhaolol/skin-support-cardview/blob/master/LICENSE"
             }
         }
         developers {
@@ -84,9 +84,9 @@ centralPortal {
             }
         }
         scm {
-            connection = "scm:git@github.com/liyuhaolol/SkinSupportCardView.git"
-            developerConnection = "scm:git@github.com/liyuhaolol/SkinSupportCardView.git"
-            url = "https://github.com/liyuhaolol/SkinSupportCardView"
+            connection = "scm:git@github.com/liyuhaolol/skin-support-cardview.git"
+            developerConnection = "scm:git@github.com/liyuhaolol/skin-support-cardview.git"
+            url = "https://github.com/liyuhaolol/skin-support-cardview"
         }
 
     }
